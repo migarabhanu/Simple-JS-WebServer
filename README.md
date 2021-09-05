@@ -5,7 +5,7 @@ This repository has created for maintain my first Javascript project !
 You can edit HTML file of this project by making a folk and as your own wishes, make a pull request !
 
 ## SOURCE CODE PROTECTED
-This repo has protected with a GNU General Public License 👨‍💻
+***This repo has protected with a GNU General Public License 👨‍💻***
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
