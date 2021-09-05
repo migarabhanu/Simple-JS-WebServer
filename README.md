@@ -2,7 +2,7 @@
 This repository has created for maintain my first Javascript project ! 
 
 ## CONTRIBUTE
-You can edit HTML file of this project by making a folk and as your own wishes, make a pull request !
+You can edit HTML file of this project by making a folk and as your own wishes, But should MAKE A PULL request !
 
 ## SOURCE CODE PROTECTED
 ***This repo has protected with a GNU General Public License 👨‍💻***
