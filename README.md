@@ -7,6 +7,7 @@ You can edit HTML file of this project by making a folk and as your own wishes, 
 ## SOURCE CODE PROTECTED
 ***This repo has protected with a GNU General Public License 👨‍💻***
 
+```
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
@@ -226,3 +227,4 @@ The hypothetical commands `show w' and `show c' should show the appropriate part
 You should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <https://www.gnu.org/licenses/>.
 
 The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <https://www.gnu.org/licenses/why-not-lgpl.html>.
+```
