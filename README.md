@@ -1,4 +1,4 @@
-# MyFirst-JS-WebServer 🚀
+# Simple-JS-WebServer 🚀
 This repository has created for maintain my first Javascript project ! 
 
 ## CONTRIBUTE
